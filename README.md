@@ -1,2 +1,0 @@
-# Macklywise-site
-Website 
